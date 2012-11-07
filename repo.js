@@ -1,4 +1,4 @@
-/*!
+/*!.
  * @mekwall's .vangogh() for Syntax Highlighting
  *
  * All code is open source and dual licensed under GPL and MIT. 
